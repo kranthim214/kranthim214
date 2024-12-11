@@ -18,5 +18,5 @@ Welcome to my GitHub profile! I'm a Front-end  React JS Developer with a passion
 
 ## Projects
 - [Image-Gallery-With-filter](https://klmamatha.github.io/Image-Gallery-With-filter/)
-- [Project 2](link-to-project2)
+- [My-Prortfolio]([https://kranthiportfolio1.vercel.app/]
 - [Project 3](link-to-project3)
